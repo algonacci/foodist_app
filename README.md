@@ -1,6 +1,6 @@
-# flutter_food_delivery_ui
+# foodist_app
 
-A new Flutter project.
+A new for simple restaurant food delivery app
 
 ## Getting Started
 
