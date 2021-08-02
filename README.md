@@ -1,6 +1,6 @@
 # foodist_app
 
-A new for simple restaurant food delivery app
+The UI code of a simple restaurant food delivery app
 
 ![alt text](https://github.com/algonacci/foodist_app/blob/main/assets/images/github%20thumbnail.png?raw=true)
 
